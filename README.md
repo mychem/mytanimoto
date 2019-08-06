@@ -1,2 +1,2 @@
-# tanimoto
-A simple UDF for tanimoto computation
+# MyTanimoto
+A simple UDF for Tanimoto computation
