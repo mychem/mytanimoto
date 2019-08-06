@@ -23,12 +23,12 @@ The following software should be installed before compiling the library:
 ### Build and installation
 
 ```bash
-# tar -xfzv mychem-0.9.4.tar.gz
+# tar -xfzv mytanimoto-0.1.0.tar.gz
 # cd mytanimoto
 # make
 ```
 
-Then, you have to copy the mytanimoto.so file into the MariaDB plugin
+Then, you have to copy the lib_mytanimoto.so file into the MariaDB plugin
 directory. This directory is given by the value of the plugin_dir system
 variable:
 ```bash
